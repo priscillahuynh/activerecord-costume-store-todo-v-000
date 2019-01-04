@@ -1,4 +1,4 @@
-class CreateCostumes < ActiveRecord::Migration[5.1]
+class AddTimeStampToCreateCostume < ActiveRecord::Migration[5.1]
   def change
       t.timestamps
     end
