@@ -1,3 +1,2 @@
-class CostumeStore < ActiveRecord:Migration
-
+class CostumeStore 
 end
