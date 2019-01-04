@@ -10,3 +10,5 @@ class CreateHauntedHouses < ActiveRecord::Migration
       t.datetime :closing_date
       t.text :description
     end
+  end
+end
