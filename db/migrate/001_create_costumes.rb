@@ -5,8 +5,7 @@ class CreateCostumes < ActiveRecord::Migration
       t.string :name
       t.integer :price
       t.string :image_url
-      t.integer :size 
-
+      t.integer :size
   end
 end
 # By convention, the class name should match the part of the
